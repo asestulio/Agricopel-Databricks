@@ -27,8 +27,8 @@ Inserir imagem dos KeyVault
 ## 3 Configuração do Azure Key Vault:
 * Desenvolvimento de notebooks para o workspace Databricks aplicando extração, limpeza e agregação de dados.
 * Como a ingestão foi feita diretamente pelo DataFactory e transformada em formato Parquet, os dados foram carregados na camada bronze e processador na camada silver e posteriormente na cama gold.
-* Silver link git hub
-* Gold link git hub
+* Silver: https://github.com/asestulio/Agricopel-Databricks/tree/main/FINANCEIRO/CONTAS_RECEBER/01.silver/silver_fincanceiro
+* Gold: https://github.com/asestulio/Agricopel-Databricks/tree/main/FINANCEIRO/CONTAS_RECEBER/02.gold
 
   ## 4 Azure Data Factory:
   * Criação de Linked Service para acessar o Databricks, DataLake Gen2
