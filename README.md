@@ -39,5 +39,7 @@ Inserir imagem dos KeyVault
   
   * Crie um gatilho para atualizar o pipeline de dados.
   * <img width="625" height="600" alt="image" src="https://github.com/user-attachments/assets/fd3aaf32-b0f1-4bc2-8620-b4755914d153" />
+# Saída 
+Essa é a saída para um dos indicadores
+ <img width="1339" height="415" alt="image" src="https://github.com/user-attachments/assets/6286dfb8-0df0-445f-9ca6-7f96429dd500" />
 
- 
