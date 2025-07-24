@@ -33,10 +33,12 @@ Inserir imagem dos KeyVault
   ## 4 Azure Data Factory:
   * Criação de Linked Service para acessar o Databricks, DataLake Gen2
     <img width="1576" height="359" alt="image" src="https://github.com/user-attachments/assets/988bb983-20ba-4c82-a6f5-e65310900807" />
+  * Com a intenção de impedir que o pipeline gere arquivos duplicados, inseri uma etapa onde com a ajuda de parâmetros ele exclui arquivos antigos antes de fazer a inserção de arquivos novos, com isso a qualidade dos dados foi mantida
+    <img width="493" height="269" alt="image" src="https://github.com/user-attachments/assets/4af65def-ceac-499b-8446-274e00cca7a4" />
 
   * Configure os pipelines para orquestrar a execução dos notebooks no Databricks na ordem Fluxo de Dados -> orquestrador_silver
-  * <img width="1332" height="448" alt="image" src="https://github.com/user-attachments/assets/e5feee72-1e05-4da6-94cc-b33f48ab8c44" />
-  
+    <img width="801" height="375" alt="image" src="https://github.com/user-attachments/assets/aad28d10-96d2-4b9f-9464-b0ee74e02f7a" />
+
   * Crie um gatilho para atualizar o pipeline de dados.
   * <img width="625" height="600" alt="image" src="https://github.com/user-attachments/assets/fd3aaf32-b0f1-4bc2-8620-b4755914d153" />
 # Saída 
